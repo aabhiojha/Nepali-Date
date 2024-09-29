@@ -1,0 +1,8 @@
+{
+  "name": "Nepali Date",
+  "description": "Displays current Nepali Bikram Sambat Date",
+  "uuid": "nepalidate@aabhiojha",
+  "shell-version": [
+    "47"
+  ]
+}
